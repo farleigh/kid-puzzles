@@ -1,0 +1,12 @@
+{
+  "name": "puzzles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "findNumber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./findNumber.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
