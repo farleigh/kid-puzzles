@@ -1,4 +1,5 @@
-import ca.farleigh.kidpuzzles.StringReverser;
+package ca.farleigh.kidpuzzles;
+
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
