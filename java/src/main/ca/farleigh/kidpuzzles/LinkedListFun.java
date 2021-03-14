@@ -45,7 +45,7 @@ public class LinkedListFun {
 
         @Override
         public String toString() {
-            return this.value.toString() + " " + this.next.toString();
+            return this.value.toString() + " " + (this.next != null ? this.next.toString() : "");
         }
     }
 }
